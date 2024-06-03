@@ -8,7 +8,6 @@ body{
 
 *,* ::before,*::after{box-sizing: inherit;}
 html{box-sizing: border-box;}
-/* this us a comment */
 
 .section{
     width: 1920px;
